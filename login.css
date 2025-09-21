@@ -1,0 +1,7 @@
+body {
+  scroll-behavior: smooth;
+  background-image: url('bg-toko.png.png'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

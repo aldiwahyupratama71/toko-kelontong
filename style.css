@@ -1,0 +1,16 @@
+body.login-page {
+  background-image: url('bg-login.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  scroll-behavior: smooth;
+}
+
+body.dashboard-page {
+  background-image: url('bg-tokomadura.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  scroll-behavior: smooth;
+}
+
